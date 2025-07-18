@@ -44,9 +44,7 @@ I dati personali raccolti non vengono venduti, scambiati, trasferiti o forniti a
 ## Utilizzo di servizi di terze parti
 L'app utilizza i seguenti servizi di terze parti:
 
-- **Firebase**: Per l'autenticazione degli utenti e l'archiviazione dei dati
-- **Stripe**: Per la gestione dei pagamenti (se applicabile)
-- **OpenAI**: Per funzionalità di assistenza basate su intelligenza artificiale
+- **Firebase**: Per l'autenticazione degli utenti e l'archiviazione dei dati.
 
 Questi servizi elaborano i dati in conformità con le normative sulla protezione dei dati e le loro rispettive politiche sulla privacy.
 
@@ -91,4 +89,4 @@ Per qualsiasi informazione riguardante la privacy o il supporto:
 
 - E-mail: [bodyrecomp.info@gmail.com]
 
-Ultimo aggiornamento: 3 luglio 2025
+Ultimo aggiornamento: 17 luglio 2025
